@@ -1,0 +1,26 @@
+2023-07-16 12:22:47,819 INFO Etrablishing sql connection
+2023-07-16 12:22:47,819 DEBUG program started here...
+2023-07-16 12:23:25,669 ERROR Error message is : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+2023-07-16 12:24:30,366 INFO Etrablishing sql connection
+2023-07-16 12:24:30,367 DEBUG program started here...
+2023-07-16 12:24:34,575 INFO (1111, 'saleem', 'hyd\n')
+2023-07-16 12:24:34,576 INFO (2, 'shravi', 'ckr')
+2023-07-16 12:24:34,576 INFO (3, 'rajesh', 'blr')
+2023-07-16 12:24:34,576 INFO (4, 'hemanth', 'blr')
+2023-07-16 12:24:34,576 INFO (5, 'sunil', 'vkota')
+2023-07-16 12:24:34,576 INFO (6, 'chintu', 'blr')
+2023-07-16 12:24:34,576 INFO (1112, 'shabaj', 'mumbai\n')
+2023-07-16 12:24:34,576 INFO (10, 'mohan kumar', 'hyd')
+2023-07-16 12:24:34,576 INFO (11, 'gopi', 'kgf')
+2023-07-16 12:24:34,576 INFO (11, 'gopi', 'kgf')
+2023-07-16 12:24:34,576 INFO (1113, 'shyam', 'usa\n')
+2023-07-16 12:24:34,576 INFO Total count of records is : 11
+2023-07-16 13:10:46,847 INFO Etrablishing sql connection
+2023-07-16 13:10:46,847 DEBUG program started here...
+2023-07-16 13:10:51,043 ERROR Error message is : ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'uusers'. (208) (SQLExecDirectW)")
+2023-07-16 13:11:34,333 INFO Etrablishing sql connection
+2023-07-16 13:11:34,333 DEBUG program started here...
+2023-07-16 13:11:38,603 ERROR Error message is : ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'uusers'. (208) (SQLExecDirectW)")
+2023-07-16 13:11:45,758 INFO Etrablishing sql connection
+2023-07-16 13:11:45,758 DEBUG program started here...
+2023-07-16 13:13:11,251 ERROR Error message is : ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'uusers'. (208) (SQLExecDirectW)")

@@ -1,0 +1,18 @@
+2023-07-17 20:57:25,478 INFO Etrablishing sql connection
+2023-07-17 20:57:29,660 INFO started email preperation
+2023-07-17 20:57:33,447 INFO success fully sent an email
+2023-07-17 20:57:33,447 DEBUG program started here...
+2023-07-17 20:57:37,523 INFO (1111, 'saleem', 'hyd\n')
+2023-07-17 20:57:37,523 INFO (2, 'shravi', 'ckr')
+2023-07-17 20:57:37,523 INFO (3, 'rajesh', 'blr')
+2023-07-17 20:57:37,523 INFO (4, 'hemanth', 'blr')
+2023-07-17 20:57:37,523 INFO (5, 'sunil', 'vkota')
+2023-07-17 20:57:37,523 INFO (6, 'chintu', 'blr')
+2023-07-17 20:57:37,523 INFO (1112, 'shabaj', 'mumbai\n')
+2023-07-17 20:57:37,523 INFO (10, 'mohan kumar', 'hyd')
+2023-07-17 20:57:37,523 INFO (11, 'gopi', 'kgf')
+2023-07-17 20:57:37,523 INFO (11, 'gopi', 'kgf')
+2023-07-17 20:57:37,523 INFO (1113, 'shyam', 'usa\n')
+2023-07-17 20:57:37,523 INFO Total count of records is : 11
+2023-07-17 20:57:37,523 INFO started email preperation
+2023-07-17 20:57:41,841 INFO success fully sent an email

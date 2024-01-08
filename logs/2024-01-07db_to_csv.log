@@ -1,0 +1,16 @@
+2024-01-07 09:18:55,026 INFO Etrablishing sql connection
+2024-01-07 09:18:55,122 INFO program started here...
+2024-01-07 09:19:03,518 INFO (1111, 'saleem', 'hyd\n')
+2024-01-07 09:19:03,518 INFO (2, 'shravi', 'ckr')
+2024-01-07 09:19:03,518 INFO (3, 'rajesh', 'blr')
+2024-01-07 09:19:03,518 INFO (4, 'hemanth', 'blr')
+2024-01-07 09:19:03,518 INFO (5, 'sunil', 'vkota')
+2024-01-07 09:19:03,518 INFO (6, 'chintu', 'blr')
+2024-01-07 09:19:03,518 INFO (1112, 'shabaj', 'mumbai\n')
+2024-01-07 09:19:03,518 INFO (10, 'mohan kumar', 'hyd')
+2024-01-07 09:19:03,518 INFO (11, 'gopi', 'kgf')
+2024-01-07 09:19:03,518 INFO (11, 'gopi', 'kgf')
+2024-01-07 09:19:03,518 INFO (1113, 'shyam', 'usa\n')
+2024-01-07 09:19:03,518 INFO Total no of records in the table users is : 11
+2024-01-07 09:19:03,518 INFO started email preperation
+2024-01-07 09:19:08,911 INFO success fully sent an email in try block
